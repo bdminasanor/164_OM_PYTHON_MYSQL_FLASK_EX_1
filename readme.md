@@ -21,3 +21,4 @@ Cela permet de mettre à jour la liste de tous les packages à installer pour qu
 
     pip freeze > requirements.txt
 
+looooo
